@@ -1,6 +1,16 @@
 ---
-title: "American University"
-subtitle: "Department of Mathematics and Statistics"
+image: JuliaChifman.jpg
 ---
 
-This site is under construction.
+![](JuliaChifman.jpg){width="250"}
+
+[American University](https://www.american.edu){style="color: black"}
+<br>
+[Department of Mathematics and Statistics](https://www.american.edu/cas/mathstat/){style="color: black"} <br> 
+4400 Massachusetts Avenue, NW <br> Washington, DC 20016
+
+### About
+
+I have joined the Department of Mathematics and Statistics at American University in August 2016 as an Assistant Professor. Prior to this appointment I was a Postdoctoral Research Fellow at the Mathematical Biosciences Institute at The Ohio State University and a Postdoctoral Fellow in the Department of Cancer Biology at the Wake Forest University School of Medicine.
+
+My work is in computational biology with specific applications to systems biology and to phylogenetics. I have an experience in phylogenetic models and inference methods, model identifiability, and discrete and continuous dynamical models at the intracellular scale. Visit *Research* tab for more information.

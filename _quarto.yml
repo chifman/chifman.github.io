@@ -5,6 +5,7 @@ project:
 website:
   title: "Julia Chifman"
   navbar:
+    logo: au_logo.png 
     left:
       - text: Home
         href: index.qmd
