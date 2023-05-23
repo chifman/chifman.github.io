@@ -1,0 +1,32 @@
+{
+    "id": "B67242C4",
+    "path": "~/Documents/GitHub/chifman.github.io/chifman_website/cv.qmd",
+    "project_path": "cv.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1684849302851.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "23,10",
+        "scrollLine": "2",
+        "rmdVisualModeLocation": "23:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1684850156,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1684850156609,
+    "read_only": false,
+    "read_only_alternatives": []
+}
