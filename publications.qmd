@@ -1,3 +1,7 @@
 ---
 title: "Publications"
 ---
+
+ <script src="https://bibbase.org/show?bib=https://bibbase.org/f/Db9xyuRA3SyJQX9nf/citations.bib"></script> 
+
+

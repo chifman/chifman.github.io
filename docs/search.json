@@ -19,5 +19,12 @@
     "title": "CV",
     "section": "",
     "text": "Download current CV"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "<iframe src=\"https://bibbase.org/show?bib=[citations]\"></iframe>"
   }
 ]
