@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/chifman.github.io/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "3699646250",
+    "hash": "3920644954",
     "contents": "",
     "dirty": false,
     "created": 1684862803037.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "37:56.3636360168457",
-        "cursorPosition": "4,32",
-        "scrollLine": "0"
+        "cursorPosition": "11,0",
+        "scrollLine": "5"
     },
     "folds": "",
-    "lastKnownWriteTime": 1684941354,
+    "lastKnownWriteTime": 1684945697,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684941354822,
+    "last_content_update": 1684945697390,
     "read_only": false,
     "read_only_alternatives": []
 }
