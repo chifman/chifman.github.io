@@ -1,9 +1,8 @@
----
-title: "Publications"
----
-```{=html}
 
-<script src="https://bibbase.org/show?bib=https://chifman.github.io/citations2.bib&jsonp=1"></script>
+```{=html}
+<h2>Publications</h2>
+
+<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/chifman/chifman.github.io/main/docs/citations.bib&jsonp=1"></script>
  
 ```
 
