@@ -2,4 +2,25 @@
 title: "Teaching"
 ---
 
-under construction
+### Courses Taught at American University
+
+Math 222: Calculus II
+
+Math 313: Calculus III
+
+Math 310: Linear Algebra
+
+Math 321: Differential Equations
+
+Math 401: Probability
+
+Math 412/612: Abstract Algebra
+
+Math 413/613: Rings and Fields
+
+Stat 402: Introduction to Mathematical Statistics
+
+Stat 423/623: Topics in Biostatistics: Computational and Systems Biology
+
+Stat 484/684: Introduction to Stochastic Processes
+
