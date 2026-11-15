@@ -20,9 +20,10 @@ Math 412/612: Abstract Algebra
 
 Math 413/613: Rings and Fields
 
+Math 465/665: Numerical Linear Algebra
+
 Stat 402: Introduction to Mathematical Statistics
 
 Stat 423/623: Topics in Biostatistics
 
 Stat 484/684: Introduction to Stochastic Processes
-
